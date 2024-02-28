@@ -1,1 +1,1 @@
-# landing_page
+Within this project I will be creating a webpage based on a provided design and layout.  I will be filling the content with relative information regarding the flora and fauna around my house.
